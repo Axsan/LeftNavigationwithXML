@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<LeftNav>
+  <Item Name="Maintenance">
+    <Option Control="Barcode Maintenance" />
+  </Item>
+  <Item Name="Reports">
+    <Option Control="Activity" />
+    <Option Control="Pending Acknowledgement" />
+  </Item>
+</LeftNav>
+
+ 
+

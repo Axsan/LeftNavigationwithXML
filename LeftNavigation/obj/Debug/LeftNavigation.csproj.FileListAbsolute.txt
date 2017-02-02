@@ -1,0 +1,6 @@
+C:\Users\JaiGotte\Documents\Visual Studio 2013\Projects\LeftNavigation\LeftNavigation\bin\LeftNavigation.dll.config
+C:\Users\JaiGotte\Documents\Visual Studio 2013\Projects\LeftNavigation\LeftNavigation\bin\LeftNavigation.dll
+C:\Users\JaiGotte\Documents\Visual Studio 2013\Projects\LeftNavigation\LeftNavigation\bin\LeftNavigation.pdb
+C:\Users\JaiGotte\Documents\Visual Studio 2013\Projects\LeftNavigation\LeftNavigation\obj\Debug\LeftNavigation.csprojResolveAssemblyReference.cache
+C:\Users\JaiGotte\Documents\Visual Studio 2013\Projects\LeftNavigation\LeftNavigation\obj\Debug\LeftNavigation.dll
+C:\Users\JaiGotte\Documents\Visual Studio 2013\Projects\LeftNavigation\LeftNavigation\obj\Debug\LeftNavigation.pdb
